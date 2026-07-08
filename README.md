@@ -54,6 +54,10 @@ Phase 0: benchmark design.
 
 The next milestone is to create a small synthetic dataset and run a baseline agent to see where it fails.
 
+## Design Documents
+
+- [docs/agent_design.md](docs/agent_design.md) — agent scaffold + Darwin Gödel Machine (DGM) self-improvement loop: how an agent will be evolved against this benchmark (fitness mapping, frozen-zone/genome split, evolution loop, anti-reward-hacking safety boundary). See issue #1.
+
 ## Build Log
 
 - Article 0: Why I need a benchmark before I need a smarter real estate agent.
