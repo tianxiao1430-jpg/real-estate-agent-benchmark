@@ -54,6 +54,10 @@ Phase 0: benchmark design.
 
 The next milestone is to create a small synthetic dataset and run a baseline agent to see where it fails.
 
+## Working Document
+
+- [ROADMAP.md](ROADMAP.md) — the living work plan: status board, milestone checklists, acceptance criteria, and how to resume work with an AI agent.
+
 ## Design Documents
 
 - [docs/agent_design.md](docs/agent_design.md) — agent scaffold + Darwin Gödel Machine (DGM) self-improvement loop: how an agent will be evolved against this benchmark (fitness mapping, frozen-zone/genome split, evolution loop, anti-reward-hacking safety boundary). See issue #1.
